@@ -8,7 +8,7 @@
 </p>
 
 ## Admin Setting
-สมัคร User เปลี่ยน is_admin = 1 ใน database
+สมัคร User เปลี่ยน is_admin = 1 ใน database ไปที่ http://localhost:PORT/admin เพื่อไปหน้า admin
 
 ## About Laravel
 
